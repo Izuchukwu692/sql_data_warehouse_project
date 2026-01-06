@@ -41,6 +41,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License]([url](https://opensource.org/license/mit)). You are free to use, modify, and share this project with proper attribution.
 
+# About me
+
 Hi there! I'm Henry Izuchukwu Nwabuikwu, popularly known as the data guy. 
 This is my first repository, and it showcases hands-on projects involving data cleaning, SQL-based analysis, data modeling, and analytical reporting, following industry best practices.
 
