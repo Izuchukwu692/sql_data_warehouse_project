@@ -28,10 +28,13 @@ BEGIN
     DROP DATABASE DataWarehouse;
 END;
 GO
+    --Create Database DataWarehouse
 
 CREATE DATABASE DataWarehouse;
 
 USE DataWarehouse;
+
+-- Create Schemas
 
 CREATE SCHEMA bronze;
 GO
